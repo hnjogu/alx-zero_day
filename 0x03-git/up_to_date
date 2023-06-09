@@ -6,3 +6,4 @@
 6 git checkout -b new-branch-name
 7 git branch
 8 git checkout master
+9 git pull
